@@ -2,19 +2,19 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Zakat Dashboard - Monitoring System
 
-This contains everything you need to run your app locally.
+Platform ini berfungsi sebagai pusat kendali untuk memantau arus data keuangan dan manajemen zakat secara real-time. Fokus utama aplikasi ini adalah menyediakan visibilitas penuh terhadap data yang dikelola melalui dashboard yang intuitif.
 
-View your app in AI Studio: https://ai.studio/apps/6fc92f99-5a73-46e7-be38-bcfa6964b75f
+## Fungsi Utama
+- **Data Monitoring**: Memantau status dan rekapan data finansial yang masuk.
+- **Record Management**: Mengelola, menyaring, dan mengorganisir data zakat agar tetap terstruktur.
+- **Deployment-Ready**: Terintegrasi untuk pemantauan langsung melalui web dashboard.
 
-## Run Locally
+## Cara Menjalankan Secara Lokal
 
-**Prerequisites:**  Node.js
+**Prasyarat:** Node.js
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Instal Dependensi:**
+   ```bash
+   npm install
